@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Cristina Denia Carretero</title>
+  <desc id="desc">Data, Business Intelligence y Automation</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#25183d"/>
+      <stop offset="55%" stop-color="#6f42c1"/>
+      <stop offset="100%" stop-color="#9b59b6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="75%" cy="20%" r="65%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".20"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+  <g opacity=".20" fill="none" stroke="#ffffff" stroke-width="2">
+    <path d="M820 85 C900 20, 980 20, 1080 90"/>
+    <path d="M805 135 C900 70, 1000 80, 1110 160"/>
+    <path d="M790 190 C905 135, 1015 150, 1130 240"/>
+    <circle cx="860" cy="105" r="8" fill="#ffffff"/>
+    <circle cx="955" cy="75" r="8" fill="#ffffff"/>
+    <circle cx="1045" cy="110" r="8" fill="#ffffff"/>
+    <circle cx="900" cy="165" r="8" fill="#ffffff"/>
+    <circle cx="1000" cy="160" r="8" fill="#ffffff"/>
+    <circle cx="1090" cy="205" r="8" fill="#ffffff"/>
+  </g>
+  <g font-family="Inter, Arial, sans-serif" fill="#ffffff">
+    <text x="78" y="142" font-size="58" font-weight="800">Cristina Denia Carretero</text>
+    <text x="82" y="202" font-size="28" font-weight="600" opacity=".96">Data · Business Intelligence · Automation</text>
+    <text x="82" y="258" font-size="22" opacity=".80">Del dato a decisiones, automatización y soluciones útiles.</text>
+  </g>
+  <g transform="translate(82 292)">
+    <rect x="0" y="0" width="118" height="34" rx="17" fill="#ffffff" fill-opacity=".12"/>
+    <text x="59" y="23" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#ffffff">Power BI</text>
+    <rect x="130" y="0" width="84" height="34" rx="17" fill="#ffffff" fill-opacity=".12"/>
+    <text x="172" y="23" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#ffffff">SQL</text>
+    <rect x="226" y="0" width="96" height="34" rx="17" fill="#ffffff" fill-opacity=".12"/>
+    <text x="274" y="23" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#ffffff">Python</text>
+    <rect x="334" y="0" width="118" height="34" rx="17" fill="#ffffff" fill-opacity=".12"/>
+    <text x="393" y="23" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" fill="#ffffff">Data &amp; BI</text>
+  </g>
+</svg>
