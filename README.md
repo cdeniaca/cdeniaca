@@ -40,6 +40,19 @@ Me interesa especialmente convertir necesidades de negocio en soluciones que sea
 
 ## 🚀 Proyectos destacados
 
+### 📊 DataPulse Spain — analítica macroeconómica end-to-end
+
+Pipeline y dashboard para analizar **España frente a economías europeas comparables** usando datos reales de la World Bank Indicators API.
+
+El proyecto integra extracción automática, transformación con Pandas, controles de calidad, almacenamiento en SQLite, KPIs, SQL analítico, tests y un dashboard público con Streamlit.
+
+`Python` `Pandas` `SQL` `SQLite` `Streamlit` `Data Quality` `GitHub Actions`
+
+🌐 [Abrir Live Demo](https://datapulse-spain.streamlit.app/)  
+💻 [Ver repositorio](https://github.com/cdeniaca/datapulse-spain)
+
+---
+
 ### 🥕 FoodLoop — inventario doméstico local-first
 
 <img align="right" src="https://raw.githubusercontent.com/cdeniaca/cdeniaca.github.io/main/images/FoodLoop_Logo.svg" width="120" alt="FoodLoop">
